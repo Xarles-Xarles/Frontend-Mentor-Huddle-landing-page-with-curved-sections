@@ -126,6 +126,8 @@ body{
 .nav1,
 .nav3{
     background-color: var(--veryPaleBlue);
+    margin-top: -20px;
+    margin-bottom: -20px;
    
 }
 
